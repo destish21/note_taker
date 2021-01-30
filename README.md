@@ -36,14 +36,14 @@
 
    * The developer is authorizing a free installation by cloning from the repository code:- 
 
-   * [destish21/employee-team-profile-generator](https://github.com/destish21/employee-team-profile-generator).
+   * [destish21/note_taker](https://github.com/destish21/note_taker).
 
 
    * you can run by install npm i to include node_module.
 
    * you can run by node server.js to note taker.
 
-   * ![employee-team-profile-generator](./Develop/Images/team5.png)
+   * ![note_taker](./Develop/Images/team5.png)
   
    ## Usage Instructions
 
@@ -54,7 +54,7 @@
 
    * Clone the code from my github 
 
-   * [destish21/employee-team-profile-generator](https://github.com/destish21/employee-team-profile-generator)
+   * [destish21/note_taker](https://github.com/destish21/note_taker)
  
    * note_taker and clone it in your comand line.
 
@@ -88,10 +88,10 @@
 
    * you can  quickly access to emails and GitHub profiles.
 
-   ![employee-team-profile-generator](./Develop/Images/team1.png)
-   ![employee-team-profile-generator](./Develop/Images/team2.png)
-   ![employee-team-profile-generator](./Develop/Images/team3.png)
-   ![employee-team-profile-generator](./Develop/Images/team4.png)
+   ![note_taker](./Develop/Images/team1.png)
+   ![note_taker](./Develop/Images/team2.png)
+   ![note_taker](./Develop/Images/team3.png)
+   ![note_taker](./Develop/Images/team4.png)
 
    * My `employee-team-profile-generator` is in my repository enjoy it!
 
@@ -108,7 +108,7 @@
   
    ## Contribution
   
-   * This is Contributed by [destish21/employee-team-profile-generator](https://github.com/destish21/employee-team-profile-generator). 
+   * This is Contributed by [destish21/note_taker](https://github.com/destish21/note_taker). 
    * But Contribution, issues and feature requests are welcome.
    * Feel free to check issues page if you want to contribute. 
    * you can contact me by Contact Information here below.
@@ -116,7 +116,7 @@
    ## Developers Contact Information
    * LinkdIn Profile: [Desta Mulualem](https://www.linkedin.com/in/desta-mulualem-6718b1203/)
    * Deployed URL :  https://destish21.github.io/employee-team-profile-generator/Develop/output/team.html
-   * github URL: https://github.com/destish21/employee-team-profile-generator
+   * github URL: https://github.com/destish21/note_taker
 
    * Email: destish21@yahoo.com
    
