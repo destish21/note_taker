@@ -36,15 +36,16 @@
 
    * The developer is authorizing a free installation by cloning from the repository code:- 
 
-   * [destish21/note_taker](https://github.com/destish21/note_taker).
-
+   * [destish21/note_taker](https://github.com/destish21/note_taker)
 
    * you can run by install npm i to include node_module.
 
    * you can run by node server.js to note taker.
 
-   * ![note_taker](./Develop/Images/team5.png)
+   * ![note_taker](./public/assets/Images/notetakerhome.png)
   
+   * ![note_taker](./public/assets/Images/notetaker1.png)
+
    ## Usage Instructions
 
    * For this app to run make sure first 
@@ -88,24 +89,8 @@
 
    * you can  quickly access to emails and GitHub profiles.
 
-   ![note_taker](./Develop/Images/team1.png)
-   ![note_taker](./Develop/Images/team2.png)
-   ![note_taker](./Develop/Images/team3.png)
-   ![note_taker](./Develop/Images/team4.png)
-
    * My `employee-team-profile-generator` is in my repository enjoy it!
 
-   * Test Screenshot image 
- 
-   ![employee-team-profile-generator](./Develop/Images/test1.png)
-  
-   ### Click the  links to wach video 1 and video 2 demonstration:  
-
-   * [Watch the video 1 ](https://drive.google.com/file/d/13Ek5_a2yhRKBvolLvIwGzpphwaK5C_RB/view?usp=sharing)
-  
-   * [Watch the video 2](https://drive.google.com/file/d/1QeEtYFUPniLX8ZqN8y_NJk6BcEOSqoMB/view?usp=sharing)
-    
-  
    ## Contribution
   
    * This is Contributed by [destish21/note_taker](https://github.com/destish21/note_taker). 
@@ -115,7 +100,7 @@
 
    ## Developers Contact Information
    * LinkdIn Profile: [Desta Mulualem](https://www.linkedin.com/in/desta-mulualem-6718b1203/)
-   * Deployed URL :  https://destish21.github.io/employee-team-profile-generator/Develop/output/team.html
+   * Deployed URL :  [Note Taker](#)
    * github URL: https://github.com/destish21/note_taker
 
    * Email: destish21@yahoo.com
