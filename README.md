@@ -100,7 +100,7 @@
 
    ## Developers Contact Information
    * LinkdIn Profile: [Desta Mulualem](https://www.linkedin.com/in/desta-mulualem-6718b1203/)
-   * Deployed URL :  [Note Taker](#)
+   * Deployed URL :  [Note Taker](https://notetakerd.herokuapp.com/)
    * github URL: https://github.com/destish21/note_taker
 
    * Email: destish21@yahoo.com
