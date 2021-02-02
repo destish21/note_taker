@@ -12,7 +12,6 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
 
-
 /**
  * API ROUTES
  */
@@ -29,6 +28,7 @@ app.post("/api/notes", (req, res) => {
   res.send(newNote);
 });
 
+//deleting routes 
 app.delete("/api/notes/:id", (req, res) => {
   const reqNoteID = req.params.id;
   db.forEach((note) => {
@@ -41,17 +41,16 @@ app.delete("/api/notes/:id", (req, res) => {
 });
 
 /**
- * HTML ROUTES
+ * HTML ROUTES 
  */
 
 app.get("/", (req, res) => {
-    res.sendFile(path.join(__dirname, "./public/index.html"));
-  });
-  app.get("/notes", (req, res) => {
-    res.sendFile(path.join(__dirname, "./public/notes.html"));
-  });
-  
-
+  res.sendFile(path.join(__dirname, "./public/index.html"));
+});
+app.get("/notes", (req, res) => {
+  res.sendFile(path.join(__dirname, "./public/notes.html"));
+});
+// server listening on the port
 app.listen(PORT, () => {
   console.log(`Server Listening on http://localhost:8080`);
 });
