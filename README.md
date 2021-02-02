@@ -29,8 +29,7 @@
 
    * My note taker application includes all necessary code that is readable, reliable, and maintainable Oftentimes, node_modules,  main Readme, screenshot images.
 
-   * I put my LinkedIn profile, github and email address working activly.
-
+   * I put my LinkedIn profile, my github URL repository, heroku url and email address working activly.
 
    ## Installation Instructions
 
@@ -42,6 +41,7 @@
 
    * you can run by node server.js to note taker.
 
+   # screenshot Images
    * ![note_taker](./public/assets/Images/notetakerhome.png)
   
    * ![note_taker](./public/assets/Images/notetaker1.png)
@@ -53,17 +53,17 @@
 
    * make sure creat repository in your github.
 
-   * Clone the code from my github 
+   * Clone the code from my github repository 
 
    * [destish21/note_taker](https://github.com/destish21/note_taker)
  
    * note_taker and clone it in your comand line.
 
-   * Make sure node_modules run by `npm i or npm installed`
+   * Make sure node_modules run by `npm i or npm install`
      in your computer.
 
    * Once in the directory run npm install to install the node_modules needed to run the app.
-    Run by `npx nodemon server.js`
+    Run by `npx nodemon server.js` or by `node server.js`.
 
    * You will be write notes on the application.
 
@@ -74,9 +74,9 @@
    * you can generate a notes that displays basic info on note takers.
 
    * you can try  the note takers by commandline. 
-       `npx nodemon server.js`
+       `npx nodemon server.js` or by `node server.js`.
 
-   * I built with diferent routes  get `/note` for `notes.html`file, and get `*` for `index.html`file.
+   * I built with diferent routes  get `/note` for `notes.html`file, and get `/` for `index.html`file. I used `/` to be direct specific index.html inasted of  to direct to all `*`
    * GET `/api/notes` reads the `db.json` file and return all saved notes as JSON.
 
    * POST `/api/notes`  receives a new note to save on the request body, add it to the `db.json` file, and then return the new note to the client.
@@ -89,7 +89,7 @@
 
    * you can  quickly access to emails and GitHub profiles.
 
-   * My `employee-team-profile-generator` is in my repository enjoy it!
+   * My `note_taker` is in my github repository enjoy it!
 
    ## Contribution
   
@@ -100,7 +100,7 @@
 
    ## Developers Contact Information
    * LinkdIn Profile: [Desta Mulualem](https://www.linkedin.com/in/desta-mulualem-6718b1203/)
-   * Deployed URL :  [Note Taker](#)
+   * Deployed URL :  [Note Taker](https://notetakerd.herokuapp.com/)
    * github URL: https://github.com/destish21/note_taker
 
    * Email: destish21@yahoo.com
